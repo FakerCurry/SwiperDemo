@@ -1,0 +1,3 @@
+rootProject.name = 'dem008_flashview'
+
+include ':app'
